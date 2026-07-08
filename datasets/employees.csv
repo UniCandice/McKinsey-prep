@@ -1,0 +1,61 @@
+employee_id,employee_name,department,salary,hire_date,manager_id
+1,Ingrid Johnson,Engineering,67000,2022-10-28,
+2,Susan Johnson,Engineering,68500,2015-07-10,1.0
+3,Yuki Garcia,Engineering,81000,2020-05-12,1.0
+4,David Kim,Engineering,55500,2023-01-27,1.0
+5,Patricia Kim,Engineering,61500,2015-12-25,1.0
+6,Priya Martinez,Engineering,70000,2016-03-07,1.0
+7,Fatima Lopez,Engineering,105500,2023-04-09,1.0
+8,Jessica Brown,Engineering,82500,2020-12-12,1.0
+9,Mary Martinez,Engineering,88500,2017-05-13,1.0
+10,William Rodriguez,Engineering,92500,2018-10-26,1.0
+11,Carlos Khan,Engineering,106500,2015-08-03,1.0
+12,Aisha Smith,Engineering,108500,2016-08-08,1.0
+13,Sarah Singh,Engineering,76500,2015-06-05,1.0
+14,David Garcia,Engineering,98500,2023-02-05,1.0
+15,Michael Lopez,Engineering,72000,2023-02-22,1.0
+16,James Taylor,Engineering,69500,2023-10-25,1.0
+17,Karen Anderson,Engineering,66500,2022-11-20,1.0
+18,Jennifer Johnson,Engineering,85000,2020-07-27,1.0
+19,Charles Kim,Sales,47000,2023-01-21,
+20,Richard Wilson,Sales,76000,2020-04-28,19.0
+21,Wei Rodriguez,Sales,38500,2015-01-28,19.0
+22,Sarah Taylor,Sales,68000,2023-07-23,19.0
+23,Sarah Nguyen,Sales,36500,2023-11-19,19.0
+24,Wei Singh,Sales,64000,2023-04-19,19.0
+25,Carlos Wilson,Sales,56500,2022-09-01,19.0
+26,Michael Johnson,Sales,75500,2020-11-22,19.0
+27,Wei Patel,Sales,79000,2018-07-07,19.0
+28,David Miller,Sales,51500,2023-11-29,19.0
+29,Ingrid Johnson,Sales,74500,2021-08-02,19.0
+30,Patricia Wilson,Sales,59000,2017-01-18,19.0
+31,Linda Rodriguez,Sales,57500,2023-05-09,19.0
+32,Michael Chen,Sales,59000,2023-10-11,19.0
+33,James Patel,Marketing,60500,2015-06-15,
+34,David Singh,Marketing,54500,2019-04-15,33.0
+35,Jennifer Smith,Marketing,66000,2019-01-03,33.0
+36,Aisha Williams,Marketing,58500,2018-09-14,33.0
+37,Karen Miller,Marketing,60000,2019-02-05,33.0
+38,Mary Wilson,Marketing,45500,2021-04-24,33.0
+39,Patricia Chen,Marketing,64500,2015-08-08,33.0
+40,William Anderson,Marketing,63500,2015-04-18,33.0
+41,Ingrid Khan,Finance,59000,2021-12-24,
+42,Richard Garcia,Finance,78000,2022-01-23,41.0
+43,Charles Chen,Finance,71000,2020-02-29,41.0
+44,Karen Rodriguez,Finance,62000,2022-02-09,41.0
+45,Sarah Nguyen,Finance,85500,2022-05-15,41.0
+46,Priya Miller,Finance,87500,2016-08-24,41.0
+47,David Brown,Finance,85000,2018-01-02,41.0
+48,Ingrid Taylor,HR,62500,2015-10-22,
+49,Patricia Miller,HR,57500,2017-11-04,48.0
+50,Wei Lopez,HR,50000,2015-07-31,48.0
+51,James Taylor,HR,35500,2019-12-12,48.0
+52,Sarah Garcia,Data Science,99000,2019-11-19,
+53,Patricia Taylor,Data Science,97000,2022-01-08,52.0
+54,Robert Rodriguez,Data Science,82000,2019-10-08,52.0
+55,Yuki Smith,Data Science,113000,2020-06-14,52.0
+56,Yuki Rodriguez,Data Science,95500,2023-04-04,52.0
+57,Omar Garcia,Data Science,75500,2016-03-22,52.0
+58,David Anderson,Data Science,85000,2018-07-11,52.0
+59,Linda Brown,Data Science,66000,2024-10-30,52.0
+60,Charles Khan,Data Science,107000,2022-11-28,52.0

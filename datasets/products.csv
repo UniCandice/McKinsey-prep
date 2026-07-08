@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price
+1,Electronics Item 1,Electronics,766.32
+2,Electronics Item 2,Electronics,429.43
+3,Electronics Item 3,Electronics,860.03
+4,Electronics Item 4,Electronics,603.18
+5,Electronics Item 5,Electronics,148.51
+6,Home Item 1,Home & Kitchen,222.42
+7,Home Item 2,Home & Kitchen,127.42
+8,Home Item 3,Home & Kitchen,43.99
+9,Home Item 4,Home & Kitchen,46.65
+10,Home Item 5,Home & Kitchen,175.01
+11,Sports Item 1,Sports,28.5
+12,Sports Item 2,Sports,96.68
+13,Sports Item 3,Sports,54.84
+14,Sports Item 4,Sports,140.71
+15,Sports Item 5,Sports,133.09
+16,Books Item 1,Books,23.27
+17,Books Item 2,Books,14.79
+18,Books Item 3,Books,6.12
+19,Books Item 4,Books,26.5
+20,Books Item 5,Books,18.08
+21,Clothing Item 1,Clothing,81.65
+22,Clothing Item 2,Clothing,21.95
+23,Clothing Item 3,Clothing,11.52
+24,Clothing Item 4,Clothing,37.31
+25,Clothing Item 5,Clothing,60.22
+26,Beauty Item 1,Beauty,34.56
+27,Beauty Item 2,Beauty,65.77
+28,Beauty Item 3,Beauty,33.34
+29,Beauty Item 4,Beauty,44.78
+30,Beauty Item 5,Beauty,49.51
